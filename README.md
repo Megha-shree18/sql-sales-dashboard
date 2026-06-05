@@ -1,15 +1,19 @@
 
- Retail Sales Dashboard
- Tools Used
+# Retail Sales Dashboard
+
+## Tools Used
 - SQL
 - Tableau
-Objective
+
+## Objective
 Analyze regional sales, profit, and customer performance.
-Key Insights
+
+## Key Insights
 - Identified top-performing regions
 - Analyzed category profitability
 - Tracked customer sales trends
-Skills Demonstrated
+
+## Skills Demonstrated
 - SQL
 - Data Cleaning
 - Data Analysis
